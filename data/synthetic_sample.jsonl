@@ -1,0 +1,4 @@
+{"id": "synthetic-001", "tokens": ["Ayesha", "Khan", "visited", "Lahore", "in", "Punjab", ",", "Pakistan", "."], "ner_tags": ["B-PERSON", "I-PERSON", "O", "B-CITY", "O", "B-PROVINCE_REGION", "O", "B-COUNTRY", "O"]}
+{"id": "synthetic-002", "tokens": ["NUST", "hosted", "TechFest", "at", "Minar-e-Pakistan", "."], "ner_tags": ["B-EDUCATIONAL_INSTITUTION", "O", "B-EVENT", "O", "B-LANDMARK_FACILITY", "O"]}
+{"id": "synthetic-003", "tokens": ["Dawn", "reported", "that", "Lahore", "Qalandars", "received", "PKR", "5000", "on", "12", "March", "2026", "at", "10:00", "AM", "."], "ner_tags": ["B-MEDIA_OUTLET", "O", "O", "B-SPORTS_TEAM", "I-SPORTS_TEAM", "O", "B-MONEY", "I-MONEY", "O", "B-DATE", "I-DATE", "I-DATE", "O", "B-TIME", "I-TIME", "O"]}
+{"id": "synthetic-004", "tokens": ["Phone", ":", "03XX-0000000", "ID", ":", "XXXXX-0000000-X", "."], "ner_tags": ["O", "O", "B-PHONE_NUMBER", "O", "O", "B-ID_NUMBER", "O"]}

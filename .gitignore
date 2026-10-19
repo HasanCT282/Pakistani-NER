@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pyc
+outputs/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+.env
+*.env
+*.pem
+*.key
+id_rsa
+id_ed25519
