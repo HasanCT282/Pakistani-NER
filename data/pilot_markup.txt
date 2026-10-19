@@ -1,0 +1,125 @@
+# Codex-authored illustrative pilot; every described event is fictional.
+# Not human-reviewed; not final training or evaluation data.
+# Numeric contacts/CNICs are seeded random digit strings, never sourced from people.
+# Shape does not establish validity, assignment, or guaranteed non-assignment.
+# Translations share groups; en=English, ur=Urdu, ru=Roman Urdu.
+en @@ c01 @@ Dr. [Ayesha Khan|PERSON] visited [Lahore|CITY] in [Punjab|PROVINCE_REGION], [Pakistan|COUNTRY], on [Monday|DATE].
+ur @@ c01 @@ ڈاکٹر [عائشہ خان|PERSON] نے [پیر|DATE] کو [پاکستان|COUNTRY] کے [پنجاب|PROVINCE_REGION] میں [لاہور|CITY] کا دورہ کیا۔
+ru @@ c01 @@ Dr. [Ayesha Khan|PERSON] ne [Monday|DATE] ko [Pakistan|COUNTRY] ke [Punjab|PROVINCE_REGION] mein [Lahore|CITY] ka daura kiya.
+en @@ c02 @@ [Punjab Police|GOVERNMENT_BODY] and [Edhi Foundation|ORGANIZATION] held a fictional [TechFest|EVENT] session at [University of Karachi|EDUCATIONAL_INSTITUTION].
+ur @@ c02 @@ [پنجاب پولیس|GOVERNMENT_BODY] اور [ایدھی فاؤنڈیشن|ORGANIZATION] نے [جامعہ کراچی|EDUCATIONAL_INSTITUTION] میں فرضی [ٹیک فیسٹ|EVENT] نشست رکھی۔
+ru @@ c02 @@ [Punjab Police|GOVERNMENT_BODY] aur [Edhi Foundation|ORGANIZATION] ne [University of Karachi|EDUCATIONAL_INSTITUTION] mein farzi [TechFest|EVENT] nashist rakhi.
+en @@ c03 @@ [Dawn|MEDIA_OUTLET] imagined [Lahore High Court|COURT_LEGAL_BODY] discussing Article 25 of the [Constitution of Pakistan|LAW_ACT].
+ur @@ c03 @@ [ڈان|MEDIA_OUTLET] نے تصور کیا کہ [لاہور ہائی کورٹ|COURT_LEGAL_BODY] نے [آئین پاکستان|LAW_ACT] کے آرٹیکل 25 پر گفتگو کی۔
+ru @@ c03 @@ [Dawn|MEDIA_OUTLET] ne tasawwur kiya ke [Lahore High Court|COURT_LEGAL_BODY] ne [Constitution of Pakistan|LAW_ACT] ke Article 25 par guftagu ki.
+en @@ c04 @@ [Pakistan Peoples Party|POLITICAL_PARTY] arranged a fictional [Karachi Kings|SPORTS_TEAM] display at [Gaddafi Stadium|LANDMARK_FACILITY] at [10:00 AM|TIME].
+ur @@ c04 @@ [پاکستان پیپلز پارٹی|POLITICAL_PARTY] نے [صبح 10:00|TIME] بجے [قذافی اسٹیڈیم|LANDMARK_FACILITY] میں [کراچی کنگز|SPORTS_TEAM] کی فرضی نمائش رکھی۔
+ru @@ c04 @@ [Pakistan Peoples Party|POLITICAL_PARTY] ne [10:00 AM|TIME] par [Gaddafi Stadium|LANDMARK_FACILITY] mein [Karachi Kings|SPORTS_TEAM] ki farzi numaish rakhi.
+en @@ c05 @@ The fictional form lists [PKR 500-700|MONEY], [5-10%|PERCENT], phone [0395-1378440|PHONE_NUMBER], and CNIC [94845-4912771-3|ID_NUMBER].
+ur @@ c05 @@ فرضی فارم میں [PKR 500-700|MONEY]، [5-10%|PERCENT]، فون [0395-1378440|PHONE_NUMBER] اور شناختی کارڈ [94845-4912771-3|ID_NUMBER] درج ہیں۔
+ru @@ c05 @@ Farzi form mein [PKR 500-700|MONEY], [5-10%|PERCENT], phone [0395-1378440|PHONE_NUMBER] aur CNIC [94845-4912771-3|ID_NUMBER] darj hain.
+en @@ c06 @@ The Pakistani visitors waited outside the court.
+ur @@ c06 @@ پاکستانی مہمان عدالت کے باہر رکے۔
+ru @@ c06 @@ Pakistani mehman adalat ke bahar ruke.
+en @@ c07 @@ Captain [Bilal Ahmed|PERSON] travelled from [Karachi|CITY] in [Sindh|PROVINCE_REGION] to [China|COUNTRY] on [12 March 2026|DATE].
+ur @@ c07 @@ کپتان [بلال احمد|PERSON] نے [12 مارچ 2026|DATE] کو [سندھ|PROVINCE_REGION] کے [کراچی|CITY] سے [چین|COUNTRY] کا سفر کیا۔
+ru @@ c07 @@ Captain [Bilal Ahmed|PERSON] ne [12 March 2026|DATE] ko [Sindh|PROVINCE_REGION] ke [Karachi|CITY] se [China|COUNTRY] ka safar kiya.
+en @@ c08 @@ [Government of Sindh|GOVERNMENT_BODY] and [Pakistan Cricket Board|ORGANIZATION] imagined [Pakistan Super League|EVENT] lessons at [NUST|EDUCATIONAL_INSTITUTION].
+ur @@ c08 @@ [حکومت سندھ|GOVERNMENT_BODY] اور [پاکستان کرکٹ بورڈ|ORGANIZATION] نے [نسٹ|EDUCATIONAL_INSTITUTION] میں [پاکستان سپر لیگ|EVENT] کے اسباق کا تصور کیا۔
+ru @@ c08 @@ [Government of Sindh|GOVERNMENT_BODY] aur [Pakistan Cricket Board|ORGANIZATION] ne [NUST|EDUCATIONAL_INSTITUTION] mein [Pakistan Super League|EVENT] ke sabaq ka tasawwur kiya.
+en @@ c09 @@ [Geo News|MEDIA_OUTLET] imagined [Supreme Court of Pakistan|COURT_LEGAL_BODY] discussing section 5 of the [Elections Act, 2017|LAW_ACT].
+ur @@ c09 @@ [جیو نیوز|MEDIA_OUTLET] نے تصور کیا کہ [سپریم کورٹ آف پاکستان|COURT_LEGAL_BODY] نے [Elections Act, 2017|LAW_ACT] کی دفعہ 5 پر گفتگو کی۔
+ru @@ c09 @@ [Geo News|MEDIA_OUTLET] ne tasawwur kiya ke [Supreme Court of Pakistan|COURT_LEGAL_BODY] ne [Elections Act, 2017|LAW_ACT] ki section 5 par guftagu ki.
+en @@ c10 @@ [Pakistan Tehreek-e-Insaf|POLITICAL_PARTY] imagined [Lahore Qalandars|SPORTS_TEAM] visiting [Minar-e-Pakistan|LANDMARK_FACILITY] at [14:30 PKT|TIME].
+ur @@ c10 @@ [پاکستان تحریک انصاف|POLITICAL_PARTY] نے [14:30 PKT|TIME] پر [لاہور قلندرز|SPORTS_TEAM] کے [مینار پاکستان|LANDMARK_FACILITY] جانے کا تصور کیا۔
+ru @@ c10 @@ [Pakistan Tehreek-e-Insaf|POLITICAL_PARTY] ne [14:30 PKT|TIME] par [Lahore Qalandars|SPORTS_TEAM] ke [Minar-e-Pakistan|LANDMARK_FACILITY] jane ka tasawwur kiya.
+en @@ c11 @@ The fictional receipt shows [PKR 500|MONEY] to [PKR 700|MONEY], [5%|PERCENT] to [10%|PERCENT], phone [+92 311 6437126|PHONE_NUMBER], and CNIC [36054-9309364-1|ID_NUMBER].
+ur @@ c11 @@ فرضی رسید میں [PKR 500|MONEY] سے [PKR 700|MONEY]، [5%|PERCENT] سے [10%|PERCENT]، فون [+92 311 6437126|PHONE_NUMBER] اور شناختی کارڈ [36054-9309364-1|ID_NUMBER] ہیں۔
+ru @@ c11 @@ Farzi raseed mein [PKR 500|MONEY] se [PKR 700|MONEY], [5%|PERCENT] se [10%|PERCENT], phone [+92 311 6437126|PHONE_NUMBER] aur CNIC [36054-9309364-1|ID_NUMBER] hain.
+en @@ c12 @@ The university opened its doors to local students.
+ur @@ c12 @@ جامعہ نے مقامی طلبہ کے لیے دروازے کھولے۔
+ru @@ c12 @@ University ne maqami talaba ke liye darwaze khole.
+en @@ c13 @@ The exercise runs [12 to 14 March 2026|DATE].
+ur @@ c13 @@ مشق [12 تا 14 مارچ 2026|DATE] جاری رہتی ہے۔
+ru @@ c13 @@ Mashq [12 se 14 March 2026|DATE] chalti hai.
+en @@ c14 @@ The practice runs from [12 March|DATE] to [14 March|DATE].
+ur @@ c14 @@ مشق [12 مارچ|DATE] سے [14 مارچ|DATE] تک جاری رہتی ہے۔
+ru @@ c14 @@ Mashq [12 March|DATE] se [14 March|DATE] tak chalti hai.
+en @@ c15 @@ In the imaginary match, [Pakistan|SPORTS_TEAM] defeated [Karachi Kings|SPORTS_TEAM].
+ur @@ c15 @@ خیالی میچ میں [پاکستان|SPORTS_TEAM] نے [کراچی کنگز|SPORTS_TEAM] کو ہرایا۔
+ru @@ c15 @@ Khayali match mein [Pakistan|SPORTS_TEAM] ne [Karachi Kings|SPORTS_TEAM] ko haraya.
+en @@ c16 @@ The fictional parcel reached [Pakistan|COUNTRY] from [China|COUNTRY].
+ur @@ c16 @@ فرضی پارسل [چین|COUNTRY] سے [پاکستان|COUNTRY] پہنچا۔
+ru @@ c16 @@ Farzi parcel [China|COUNTRY] se [Pakistan|COUNTRY] pohncha.
+en @@ c17 @@ The fictional map separates [Islamabad|CITY] from [Islamabad Capital Territory|PROVINCE_REGION].
+ur @@ c17 @@ فرضی نقشہ [اسلام آباد|CITY] کو [اسلام آباد کیپیٹل ٹیریٹری|PROVINCE_REGION] سے الگ دکھاتا ہے۔
+ru @@ c17 @@ Farzi naqsha [Islamabad|CITY] ko [Islamabad Capital Territory|PROVINCE_REGION] se alag dikhata hai.
+en @@ c18 @@ The imaginary guide distinguishes [Karachi|CITY] from the administrative unit [Karachi district|PROVINCE_REGION].
+ur @@ c18 @@ خیالی رہنما [کراچی|CITY] اور انتظامی اکائی [کراچی ضلع|PROVINCE_REGION] میں فرق کرتا ہے۔
+ru @@ c18 @@ Khayali rehnuma [Karachi|CITY] aur intizami ikai [Karachi district|PROVINCE_REGION] mein farq karta hai.
+en @@ c19 @@ The fictional [Pakistan Muslim League (N)|POLITICAL_PARTY] leaflet names [Dawn|MEDIA_OUTLET].
+ur @@ c19 @@ [پاکستان مسلم لیگ (ن)|POLITICAL_PARTY] کے فرضی پرچے میں [ڈان|MEDIA_OUTLET] کا نام ہے۔
+ru @@ c19 @@ [Pakistan Muslim League (N)|POLITICAL_PARTY] ke farzi parche mein [Dawn|MEDIA_OUTLET] ka naam hai.
+en @@ c20 @@ The fictional judge, Justice [Sara Ali|PERSON], read the [Constitution of Pakistan|LAW_ACT].
+ur @@ c20 @@ فرضی جج جسٹس [سارہ علی|PERSON] نے [آئین پاکستان|LAW_ACT] پڑھا۔
+ru @@ c20 @@ Farzi judge Justice [Sara Ali|PERSON] ne [Constitution of Pakistan|LAW_ACT] parha.
+en @@ c21 @@ [University of Karachi|EDUCATIONAL_INSTITUTION] admitted imaginary students on [Tuesday|DATE].
+ur @@ c21 @@ [جامعہ کراچی|EDUCATIONAL_INSTITUTION] نے [منگل|DATE] کو خیالی طلبہ کو داخلہ دیا۔
+ru @@ c21 @@ [University of Karachi|EDUCATIONAL_INSTITUTION] ne [Tuesday|DATE] ko khayali talaba ko dakhla diya.
+en @@ c22 @@ The fictional visitors met at [NUST|EDUCATIONAL_INSTITUTION] at [noon|TIME].
+ur @@ c22 @@ فرضی مہمان [دوپہر 12 بجے|TIME] [نسٹ|EDUCATIONAL_INSTITUTION] میں ملے۔
+ru @@ c22 @@ Farzi mehman [noon|TIME] par [NUST|EDUCATIONAL_INSTITUTION] mein mile.
+en @@ c23 @@ [Lahore High Court|COURT_LEGAL_BODY] heard an imaginary petition from [Edhi Foundation|ORGANIZATION].
+ur @@ c23 @@ [لاہور ہائی کورٹ|COURT_LEGAL_BODY] نے [ایدھی فاؤنڈیشن|ORGANIZATION] کی خیالی درخواست سنی۔
+ru @@ c23 @@ [Lahore High Court|COURT_LEGAL_BODY] ne [Edhi Foundation|ORGANIZATION] ki khayali darkhwast suni.
+en @@ c24 @@ [Election Commission of Pakistan|GOVERNMENT_BODY] sent a fictional notice to [Pakistan Peoples Party|POLITICAL_PARTY].
+ur @@ c24 @@ [الیکشن کمیشن آف پاکستان|GOVERNMENT_BODY] نے [پاکستان پیپلز پارٹی|POLITICAL_PARTY] کو فرضی نوٹس بھیجا۔
+ru @@ c24 @@ [Election Commission of Pakistan|GOVERNMENT_BODY] ne [Pakistan Peoples Party|POLITICAL_PARTY] ko farzi notice bheja.
+en @@ c25 @@ The imaginary [TechFest 2026|EVENT] display stood beside [Minar-e-Pakistan|LANDMARK_FACILITY].
+ur @@ c25 @@ خیالی [ٹیک فیسٹ 2026|EVENT] کی نمائش [مینار پاکستان|LANDMARK_FACILITY] کے پاس تھی۔
+ru @@ c25 @@ Khayali [TechFest 2026|EVENT] ki numaish [Minar-e-Pakistan|LANDMARK_FACILITY] ke paas thi.
+en @@ c26 @@ In the exercise, [Geo News|MEDIA_OUTLET] described [Punjab Police|GOVERNMENT_BODY] visiting [Gaddafi Stadium|LANDMARK_FACILITY].
+ur @@ c26 @@ مشق میں [جیو نیوز|MEDIA_OUTLET] نے [پنجاب پولیس|GOVERNMENT_BODY] کے [قذافی اسٹیڈیم|LANDMARK_FACILITY] جانے کا ذکر کیا۔
+ru @@ c26 @@ Mashq mein [Geo News|MEDIA_OUTLET] ne [Punjab Police|GOVERNMENT_BODY] ke [Gaddafi Stadium|LANDMARK_FACILITY] jane ka zikr kiya.
+en @@ c27 @@ The fictional phone contacts are [021-90960557|PHONE_NUMBER] and [0352-0847485|PHONE_NUMBER]; ext. 123 is separate.
+ur @@ c27 @@ فرضی فون رابطے [021-90960557|PHONE_NUMBER] اور [0352-0847485|PHONE_NUMBER] ہیں؛ ایکسٹینشن 123 الگ ہے۔
+ru @@ c27 @@ Farzi phone rabte [021-90960557|PHONE_NUMBER] aur [0352-0847485|PHONE_NUMBER] hain; ext. 123 alag hai.
+en @@ c28 @@ The synthetic CNIC field contains [50862-9948184-3|ID_NUMBER].
+ur @@ c28 @@ مصنوعی شناختی کارڈ کے خانے میں [50862-9948184-3|ID_NUMBER] ہے۔
+ru @@ c28 @@ Masnooi CNIC ke khane mein [50862-9948184-3|ID_NUMBER] hai.
+en @@ c29 @@ The mock fee is about [Rs. 2.5 crore|MONEY] and the discount is [7.5 percent|PERCENT].
+ur @@ c29 @@ فرضی فیس تقریباً [2.5 کروڑ روپے|MONEY] اور رعایت [7.5 فیصد|PERCENT] ہے۔
+ru @@ c29 @@ Farzi fees taqreeban [Rs. 2.5 crore|MONEY] aur riayat [7.5 percent|PERCENT] hai.
+en @@ c30 @@ The imaginary call lasts from [10:00 AM|TIME] to [11:00 AM|TIME].
+ur @@ c30 @@ خیالی کال [صبح 10:00|TIME] سے [صبح 11:00|TIME] تک ہے۔
+ru @@ c30 @@ Khayali call [10:00 AM|TIME] se [11:00 AM|TIME] tak hai.
+en @@ c31 @@ Dr. [Hamza Noor|PERSON] imagined [Pakistan cricket team|SPORTS_TEAM] joining [Pakistan Super League|EVENT].
+ur @@ c31 @@ ڈاکٹر [حمزہ نور|PERSON] نے [پاکستان کرکٹ ٹیم|SPORTS_TEAM] کی [پاکستان سپر لیگ|EVENT] میں شمولیت کا تصور کیا۔
+ru @@ c31 @@ Dr. [Hamza Noor|PERSON] ne [Pakistan cricket team|SPORTS_TEAM] ki [Pakistan Super League|EVENT] mein shirkat ka tasawwur kiya.
+en @@ c32 @@ The fictional company [Roshan Labs Ltd.|ORGANIZATION] budgeted [5,000 rupees|MONEY].
+ur @@ c32 @@ فرضی کمپنی [روشن لیبز لمیٹڈ|ORGANIZATION] نے [5,000 روپے|MONEY] کا بجٹ رکھا۔
+ru @@ c32 @@ Farzi company [Roshan Labs Ltd.|ORGANIZATION] ne [5,000 rupees|MONEY] ka budget rakha.
+en @@ c33 @@ The imaginary route crosses [Gilgit-Baltistan|PROVINCE_REGION] before reaching [Quetta|CITY].
+ur @@ c33 @@ خیالی راستہ [کوئٹہ|CITY] پہنچنے سے پہلے [گلگت بلتستان|PROVINCE_REGION] سے گزرتا ہے۔
+ru @@ c33 @@ Khayali rasta [Quetta|CITY] pohanchne se pehle [Gilgit-Baltistan|PROVINCE_REGION] se guzarta hai.
+en @@ c34 @@ The mock entry lists CNIC [57152-4953496-4|ID_NUMBER] and phone [+92 350 8542915|PHONE_NUMBER].
+ur @@ c34 @@ فرضی اندراج میں شناختی کارڈ [57152-4953496-4|ID_NUMBER] اور فون [+92 350 8542915|PHONE_NUMBER] ہیں۔
+ru @@ c34 @@ Farzi indraj mein CNIC [57152-4953496-4|ID_NUMBER] aur phone [+92 350 8542915|PHONE_NUMBER] hain.
+en @@ c35 @@ In the fictional survey, the rate rose by [25%|PERCENT] on [Friday|DATE].
+ur @@ c35 @@ فرضی سروے میں [جمعہ|DATE] کو شرح [25%|PERCENT] بڑھی۔
+ru @@ c35 @@ Farzi survey mein [Friday|DATE] ko sharah [25%|PERCENT] barhi.
+en @@ c36 @@ The court and the ministry exchanged generic forms.
+ur @@ c36 @@ عدالت اور وزارت نے عام فارم بھیجے۔
+ru @@ c36 @@ Adalat aur wizarat ne aam form bheje.
+en @@ c37 @@ Pakistani and Lahori are descriptive words in this lesson.
+ur @@ c37 @@ اس سبق میں پاکستانی اور لاہوری وصفی الفاظ ہیں۔
+ru @@ c37 @@ Is sabaq mein Pakistani aur Lahori wasfi alfaaz hain.
+en @@ c38 @@ The exercise lasted three days and two hours.
+ur @@ c38 @@ مشق تین دن اور دو گھنٹے جاری رہی۔
+ru @@ c38 @@ Mashq teen din aur do ghante jari rahi.
+en @@ c39 @@ The fictional appointment is [tomorrow|DATE] at [10:00-11:00 AM|TIME].
+ur @@ c39 @@ فرضی ملاقات [کل|DATE] [صبح 10:00-11:00|TIME] بجے ہے۔
+ru @@ c39 @@ Farzi mulaqat [kal|DATE] [10:00-11:00 AM|TIME] par hai.
+en @@ c40 @@ The mock lesson quotes the [Elections Act, 2017|LAW_ACT] inside [Supreme Court of Pakistan|COURT_LEGAL_BODY].
+ur @@ c40 @@ فرضی سبق [سپریم کورٹ آف پاکستان|COURT_LEGAL_BODY] میں [Elections Act, 2017|LAW_ACT] کا حوالہ دیتا ہے۔
+ru @@ c40 @@ Farzi sabaq [Supreme Court of Pakistan|COURT_LEGAL_BODY] mein [Elections Act, 2017|LAW_ACT] ka hawala deta hai.
